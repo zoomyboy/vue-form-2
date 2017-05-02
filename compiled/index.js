@@ -128,7 +128,6 @@ exports.install = function (Vue, globalOptions, customFields) {
       submit: require('./methods/submit'),
       formData: require('./methods/form-data'),
       getField: require('./methods/get-field'),
-      showAllErrors: require('./methods/show-all-errors'),
       reinitForm: require('./methods/reinit-form'),
       registerInterfieldsRules: require('./methods/register-interfields-rules'),
       registerTriggers: require('./methods/register-triggers'),

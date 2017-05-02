@@ -1,5 +1,5 @@
-var VueForm = require('./compiled/index');
-var Event = require('./compiled/bus');
+var VueForm = require('./lib/index');
+var Event = require('./lib/bus');
 
 module.exports = {
 	VueForm, 
